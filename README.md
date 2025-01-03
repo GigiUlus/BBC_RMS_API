@@ -32,7 +32,7 @@ Optional:
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/GigiUlus/BBC_RMS_API
 cd BBCApiFramework
 ```
 
